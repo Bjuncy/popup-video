@@ -1,0 +1,122 @@
+/*!***************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/components/css/iconfont.css ***!
+  \***************************************************************************************************************/
+@import url(https://at.alicdn.com/t/font_2926647_ybwqsv8l8q.css);
+/*!*******************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/components/css/iconfont.css (1) ***!
+  \*******************************************************************************************************************/
+
+
+/*!************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/components/css/video.css ***!
+  \************************************************************************************************************/
+.video__video--e8L01 {
+    position: relative;
+    overflow: hidden;
+}
+.video__video-content--K8Zpq {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.video__video-controls--qE1TG {
+    width: 100%;
+    position: absolute;
+    height: 50px;
+    bottom: -54px;
+    left: 0;
+    background: rgba(0, 0, 0, 0.8);
+    transition-duration: 0.5s;
+}
+.video__video-progress--YhzeY {
+    height: 5px;
+    background: #222223;
+    position: relative;
+}
+.video__video-progress-now--lRdkK {
+    width: 0%;
+    height: 100%;
+    background: #ff6a03;
+    position: absolute;
+    left: 0;
+}
+.video__video-progress-sus--T6yli {
+    width: 0%;
+    height: 100%;
+    background: #666;
+
+}
+.video__video-progress-bar--wLwp2 {
+    height: 14px;
+    width: 14px;
+    background: #fff;
+    border-radius: 50%;
+    position: absolute;
+    left: 0%;
+    top:0;
+    margin:-7px;
+    margin-top: -4px;
+}
+.video__video-play--YMPds {
+    float: left;
+    height: 45px;
+    line-height: 45px;
+    margin-left: 25px;
+    color: #fff;
+}
+.video__video-play--YMPds i {
+    font-size: 20px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.video__video-time--NwWV9 {
+    float: left;
+    height: 45px;
+    line-height: 45px;
+    color: #fff;
+}
+.video__video-full--dzq3t {
+    float: right;
+    margin-right: 20px;
+    color: #fff;
+    line-height: 45px;
+}
+.video__video-full--dzq3t i {
+    font-size: 20px;
+    cursor: pointer;
+}
+.video__video-volume--nvror {
+    float: right;
+    display: flex;
+    line-height: 45px;
+    align-items: center;
+    margin-right: 10px;
+}
+.video__video-volume--nvror i {
+    font-size: 20px;
+    margin-right: 15px;
+    color: #fff;
+    cursor: pointer;
+}
+.video__video-volprogress--NjW34 {
+    width: 100px;
+    height: 5px;
+    background: #222223;
+    position: relative;
+}
+.video__video-volprogress-now--uWMdk {
+    width: 50%;
+    height: 100%;
+    background: #ff6a05;
+}
+.video__video-volprogress-bar--cQDHn {
+    height: 14px;
+    width: 14px;
+    background: #fff;
+    border-radius: 50%;
+    position: absolute;
+    left: 50%;
+    top:0;
+    margin:-7px;
+    margin-top: -4px;
+}
